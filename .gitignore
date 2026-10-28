@@ -1,0 +1,21 @@
+# Build output
+CATIAQuickKeys.exe
+*.exe
+*.pdb
+bin/
+obj/
+
+# Local configuration and runtime files
+config.json
+config.json.bak
+config.json.invalid
+*.log
+selftest.txt
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Local test/scratch
+_probe/
